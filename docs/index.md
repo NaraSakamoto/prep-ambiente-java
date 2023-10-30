@@ -60,9 +60,9 @@ Execute os comandos abaixo no prompt de comando
         
 `setx JAVA_HOME "<diretório-onde-jdk-foi-instalado>"`
 
-`setx CLASSPATH %JAVA_HOME%\lib`
+`setx CLASSPATH "%JAVA_HOME%\lib"`
 
-`setx PATH %PATH%;%JAVA_HOME%\bin`
+`setx PATH "%PATH%;%JAVA_HOME%\bin"`
     
 Feche o Prompt.
 
