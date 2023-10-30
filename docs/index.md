@@ -145,7 +145,7 @@ Este comando vai inicializar vários arquivos de configuração no diretório de
 
 Primeiro crie o arquivo intellij.desktop com o comando abaixo: 
 
-`sudo getid /usr/share/applications/intellij.desktop`
+`sudo gedit /usr/share/applications/intellij.desktop`
 
 Esse comando abrirá uma janela para editar um arquivo de texto que inicialmente estará vazio. 
 
